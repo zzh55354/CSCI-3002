@@ -1,0 +1,43 @@
+Group 2 – Project Plan Part 1: Group plan
+Team members: Ziheng Zhu (team liason) Zitao Cheng
+Revised project description:
+The project that our group is going to do is “Let read more book”. Our initial idea of this project is to create an app that can recommend books to users and let them read. We come up with two main functionalities that this app can able to do. The first one is by searching the key words, users are able to see the relative books’ title that showed up on the app. The second one is according to users’ browsing content on the device, the app can base on that to recommend books to the users. For example, one person may watch lots of cuisine teaching video on YouTube, then the apps should able to recommend some kinds of cookery book to this guy. Since the second functionality is hard to implement, our project idea may be adjusted in some points.
+Meeting schedule:
+Wednesday afternoon
+Group chat and documentation:
+Our group prefer to use WeChat for discussion.
+For storing documents, we decide to use Google Drive. And for peer programming, we will use GitHub
+Part 2: Research plan
+For data collecting and learning about user group, we are going to do a 1v1 interview and make a questionnaire.
+Interview (The following are interview questions) 1. Do you like to read book?
+2. Would you like to use an app that able to recommend books for you to read?
+3. Did you ever conform a situation that you want to improve some aspect of your knowledge, and you want to learn it from reading books, but you don’t know which book can help you?
+4. If the app that can peer your browsing contents and base on these contents to recommend books for you, would you prefer to use it or not?
+5. After knowing the book’s title, do you want the app also can show you the resource of the book such that where you can get this book?
+
+Questionnaire
+
+1. Howmuchdoyoulikereading?
+
+                    1 2 3 4 5 6
+           Notatall       Verysomuch
+           
+2. Howoftendoyouupsetbecauseyoucan’tfindasuitablebookto
+read?
+                    1 2 3 4 5 6      
+              Never       Allthetime
+
+3. Howmuchdoyouliketouseanapptogetasuitablebookfor
+reading? 
+                     1 2 3 4 5 6
+            Notatall       Verysomuch
+
+4. Theimportanceofprivacyinbrowsingcontentinyourdevice 
+
+                     1 2 3 4 5 6
+Not important at all       Very important
+
+5. Doyoufeelthatitwillbebetterwhenyougetthetitleofthebook that you looking for but also know where it can be found at the same time?
+
+                     1 2 3 4 5 6
+          Not at all       Very so much
