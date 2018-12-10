@@ -7,7 +7,7 @@ Our [final prototype](https://www.figma.com/file/eLTJKKfVK9AA7FOJriAChB/Final-Gr
 
 Previous Assignment List:
 
-  - [Group 2](Group 2.pdf)
+  - [Group 2](Group2.pdf)
   - Group 3
   - Group 4
   - Group 5
