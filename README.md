@@ -1,6 +1,9 @@
 
 
-# Name: Ziheng Zhu & Zitao Cheng
+# Project Name: Read Read
+
+
+#### Team Members: Ziheng Zhu, Zitao Cheng
 
 Our [final prototype](https://www.figma.com/file/eLTJKKfVK9AA7FOJriAChB/Final-Group-6?node-id=0%3A1) in Figma
 
