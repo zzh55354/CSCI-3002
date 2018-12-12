@@ -20,5 +20,4 @@ Previous Assignment List:
   - [Group 6](Group6.pdf)
   
   
-  Project Video
-
+  [Project Video](https://drive.google.com/file/d/1qp_YQ75JZjBUbNTkmRRTexdfk_HlORwD/view)
